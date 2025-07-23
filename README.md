@@ -7,7 +7,7 @@ NOX: Nitric oxide concentration (pollution)
 DIS: Distance to employment centers
 LSTAT: % of lower-status population
 PTRATIO: Student-teacher ratio
-... and several others.
+and several others.
 It comes from the sklearn.datasets.load_boston().
 
 Project Steps:
