@@ -11,6 +11,8 @@ PTRATIO: Student-teacher ratio
 It comes from the sklearn.datasets.load_boston().
 
 Project Steps:
+
+
 1.Exploratory Data Analysis (EDA)
    
 2.Data Preprocessing
