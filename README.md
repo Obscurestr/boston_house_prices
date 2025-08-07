@@ -58,7 +58,7 @@ The dataset includes various attributes of Boston neighborhoods, such as:
 ```bash
 # Clone the repository
 git clone https://github.com/Obscurestr/boston_house_prices.git
-cd boston-housing-regression
+cd boston_house_prices
 
 # (Optional) Create a virtual environment
 python -m venv venv
