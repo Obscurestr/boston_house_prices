@@ -3,7 +3,7 @@ This project builds a **multivariable linear regression** model to predict housi
 
 ---
 
-## 📊 Dataset Information
+## Dataset Information
 
 The dataset includes various attributes of Boston neighborhoods, such as:
 
@@ -15,11 +15,11 @@ The dataset includes various attributes of Boston neighborhoods, such as:
 - `PTRATIO`: Student-teacher ratio  
 - ...and several others.
 
-📦 **Source:** `sklearn.datasets.load_boston()` (Note: Deprecated in recent versions of scikit-learn)
+ **Source:** `sklearn.datasets.load_boston()` (Note: Deprecated in recent versions of scikit-learn)
 
 ---
 
-## 🧠 Project Steps
+## Project Steps
 
 1. **Exploratory Data Analysis (EDA)**  
    - Visualizing distributions and correlations  
@@ -42,7 +42,7 @@ The dataset includes various attributes of Boston neighborhoods, such as:
 
 ---
 
-## ⚙️ Technologies Used
+## Technologies Used
 
 - Python  
 - pandas  
@@ -53,7 +53,7 @@ The dataset includes various attributes of Boston neighborhoods, such as:
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 ```bash
 # Clone the repository
@@ -73,7 +73,7 @@ jupyter notebook Boston_Housing_Regression.ipynb
 
 ---
 
-## 📈 Sample Prediction
+## Sample Prediction
 
 Estimate the price of a property with:
 - 8 rooms  
